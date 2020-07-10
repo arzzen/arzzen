@@ -5,7 +5,7 @@
 	<p><strong>We're having a really bad day.</strong></p>
 	<p>The Unicorns have taken over. We're doing our best to get them under control and get GitHub back up and running.</p>
 	<div id="suggestions">
-	<a href="https://lukasmestan.com">Contact Support</a> —
+	<a href="https://keybase.io/get/">Contact Support</a> —
 	<a href="https://github.com/sponsors/arzzen?o=esb">Support me</a> —
 	<a href="https://github.com/arzzen">Follow me</a>
 	</div>
