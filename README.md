@@ -7,7 +7,6 @@
 	<br>
 	<br><br>
 	<br>
-	<p>We're doing our best to get them under control and get GitHub back up and running.</p>
 	<div id="suggestions">
 	<a href="https://keybase.io/get/">Contact</a> —
 	<a href="https://github.com/sponsors/arzzen?o=esb">Support</a> —
