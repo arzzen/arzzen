@@ -7,9 +7,4 @@
 	<br>
 	<br><br>
 	<br>
-	<div id="suggestions">
-	<a href="https://keybase.io/get/">Contact</a> —
-	<a href="https://github.com/sponsors/arzzen?o=esb">Support</a> —
-	<a href="https://github.com/arzzen">Follow</a>
-	</div>
 </div>
