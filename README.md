@@ -1,11 +1,11 @@
 <pre>
- _____________________________________
-/ You are the only person to ever get \
-\ this message.                       /
- -------------------------------------
-       \   ^__^
-        \  (oo)\_______
-           (__)\       )\/\
-               ||----w |
-               ||     ||
+             ---(  )----\==<
+          >==\       oo  \
+              \_       __ \--\  *
+                /_____/  \_\  \/
+                  ||
+                  ||
+                  ^^
+          this cow was caught
+      in a transporter malfunction
 </pre>
